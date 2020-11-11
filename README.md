@@ -1,2 +1,2 @@
 # Basic_C-Sharp_Projects
-Projects based on assignments from The Tech Academy
+This repository will contain projects based on assignments from The Tech Academy's C# & .NET Framework Course.
