@@ -1,0 +1,6 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\escape_key_use\escape_key_use\bin\Debug\escape_key_use.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\escape_key_use\escape_key_use\bin\Debug\escape_key_use.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\escape_key_use\escape_key_use\bin\Debug\escape_key_use.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\escape_key_use\escape_key_use\obj\Debug\escape_key_use.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\escape_key_use\escape_key_use\obj\Debug\escape_key_use.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\escape_key_use\escape_key_use\obj\Debug\escape_key_use.pdb
