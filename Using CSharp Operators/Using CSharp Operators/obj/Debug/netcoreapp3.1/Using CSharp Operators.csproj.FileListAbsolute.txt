@@ -1,0 +1,13 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\bin\Debug\netcoreapp3.1\Using CSharp Operators.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\bin\Debug\netcoreapp3.1\Using CSharp Operators.deps.json
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\bin\Debug\netcoreapp3.1\Using CSharp Operators.runtimeconfig.json
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\bin\Debug\netcoreapp3.1\Using CSharp Operators.runtimeconfig.dev.json
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\bin\Debug\netcoreapp3.1\Using CSharp Operators.dll
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\bin\Debug\netcoreapp3.1\Using CSharp Operators.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.AssemblyInfoInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.AssemblyInfo.cs
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.dll
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Using CSharp Operators\Using CSharp Operators\obj\Debug\netcoreapp3.1\Using CSharp Operators.genruntimeconfig.cache
