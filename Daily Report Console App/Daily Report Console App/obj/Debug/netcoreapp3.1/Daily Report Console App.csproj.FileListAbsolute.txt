@@ -1,0 +1,13 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\bin\Debug\netcoreapp3.1\Daily Report Console App.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\bin\Debug\netcoreapp3.1\Daily Report Console App.deps.json
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\bin\Debug\netcoreapp3.1\Daily Report Console App.runtimeconfig.json
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\bin\Debug\netcoreapp3.1\Daily Report Console App.runtimeconfig.dev.json
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\bin\Debug\netcoreapp3.1\Daily Report Console App.dll
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\bin\Debug\netcoreapp3.1\Daily Report Console App.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.AssemblyInfoInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.AssemblyInfo.cs
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.dll
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Daily Report Console App\Daily Report Console App\obj\Debug\netcoreapp3.1\Daily Report Console App.genruntimeconfig.cache

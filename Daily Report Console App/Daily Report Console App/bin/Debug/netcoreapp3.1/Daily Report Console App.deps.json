@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Daily Report Console App/1.0.0": {
+        "runtime": {
+          "Daily Report Console App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daily Report Console App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
