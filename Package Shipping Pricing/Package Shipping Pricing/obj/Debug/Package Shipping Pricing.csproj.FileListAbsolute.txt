@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\bin\Debug\Package Shipping Pricing.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\bin\Debug\Package Shipping Pricing.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\bin\Debug\Package Shipping Pricing.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\obj\Debug\Package Shipping Pricing.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\obj\Debug\Package Shipping Pricing.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\obj\Debug\Package Shipping Pricing.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Package Shipping Pricing\Package Shipping Pricing\obj\Debug\Package Shipping Pricing.pdb
