@@ -19,12 +19,15 @@ namespace Package_Shipping_Pricing
  
             } else
             {
+                Console.WriteLine("Please enter the package width:");
+                decimal width = Convert.ToDecimal(Console.ReadLine());
                 Console.WriteLine("Please enter the package height:");
                 decimal height = Convert.ToDecimal(Console.ReadLine());
                 Console.WriteLine("Please enter the package length:");
                 decimal length = Convert.ToDecimal(Console.ReadLine());
-                decimal cost = weight * height * length;
-                if ( height * length > 50)
+                decimal size = height + width + length;
+                decimal cost = (height * width * length * width) / 100;
+                if ( size > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express. Have a good day.");
                 } else
