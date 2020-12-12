@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\bin\Debug\Car Insurance Qualifier.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\bin\Debug\Car Insurance Qualifier.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\bin\Debug\Car Insurance Qualifier.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\obj\Debug\Car Insurance Qualifier.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\obj\Debug\Car Insurance Qualifier.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\obj\Debug\Car Insurance Qualifier.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Car Insurance Qualifier\Car Insurance Qualifier\obj\Debug\Car Insurance Qualifier.pdb
