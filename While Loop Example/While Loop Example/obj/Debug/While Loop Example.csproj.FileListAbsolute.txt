@@ -1,0 +1,6 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\While Loop Example\While Loop Example\bin\Debug\While Loop Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\While Loop Example\While Loop Example\bin\Debug\While Loop Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\While Loop Example\While Loop Example\bin\Debug\While Loop Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\While Loop Example\While Loop Example\obj\Debug\While Loop Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\While Loop Example\While Loop Example\obj\Debug\While Loop Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\While Loop Example\While Loop Example\obj\Debug\While Loop Example.pdb
