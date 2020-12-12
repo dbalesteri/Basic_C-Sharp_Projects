@@ -17,7 +17,7 @@ namespace Car_Insurance_Qualifier
             bool DUI = Convert.ToBoolean(Console.ReadLine().ToLower());
             Console.WriteLine("How many speeding tickets do you have? Please answer with a digit.");
             int tickets = Convert.ToInt32(Console.ReadLine());
-            bool qualified = age > 15 && DUI == true && tickets <= 3;
+            bool qualified = age > 15 && DUI == false && tickets <= 3;
             Console.WriteLine("Qualified?: " + qualified);
             Console.ReadLine();
 
