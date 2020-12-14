@@ -1,0 +1,7 @@
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\bin\Debug\String and Stringbuilder Example.exe.config
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\bin\Debug\String and Stringbuilder Example.exe
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\bin\Debug\String and Stringbuilder Example.pdb
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\obj\Debug\String and Stringbuilder Example.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\obj\Debug\String and Stringbuilder Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\obj\Debug\String and Stringbuilder Example.exe
+C:\Users\louis\source\repos\String and Stringbuilder Example\String and Stringbuilder Example\obj\Debug\String and Stringbuilder Example.pdb
