@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\bin\Debug\Methods Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\bin\Debug\Methods Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\bin\Debug\Methods Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\obj\Debug\Methods Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\obj\Debug\Methods Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\obj\Debug\Methods Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Methods Example\Methods Example\obj\Debug\Methods Example.pdb
