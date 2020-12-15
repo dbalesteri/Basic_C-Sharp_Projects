@@ -177,6 +177,7 @@ namespace ConsoleApp_Iteration_Example
                 Console.WriteLine("\nLet's go over the flips to double check that we had multiples of one side:\n");
                 foreach (string flip in flips) // to satisfy assignment part 6, checking if there was ever a duplicate
                 {
+
                     foreach (string check in checkAgainst)
                     {
                         if (check == flip)
@@ -185,13 +186,19 @@ namespace ConsoleApp_Iteration_Example
                             Console.WriteLine(check + " has appeared at least once already so far!");
                             break;
                         }
+                        else
+                        {
+                            duplicateWord = false;
+                        }
                     }
-                    checkAgainst.Add(flip);
+                    if (!duplicateWord)
+                    {
+                        checkAgainst.Add(flip);
+                        Console.WriteLine(flip + " has not appeared yet in the list so far!");
+                    }
+
                 }
-                if (duplicateWord)
-                {
-                    Console.WriteLine("So we know there was at least 1 set of duplicates, so the results won't be 1 vs 9!");
-                }
+
                 Console.WriteLine("\nLet's evaluate our results:");
                 if (indicies.Count == 0)
                 {
