@@ -1,0 +1,7 @@
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\bin\Debug\ExceptionHandling Example.exe.config
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\bin\Debug\ExceptionHandling Example.exe
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\bin\Debug\ExceptionHandling Example.pdb
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\obj\Debug\ExceptionHandling Example.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\obj\Debug\ExceptionHandling Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\obj\Debug\ExceptionHandling Example.exe
+C:\Users\louis\source\repos\ExceptionHandling Example\ExceptionHandling Example\obj\Debug\ExceptionHandling Example.pdb
