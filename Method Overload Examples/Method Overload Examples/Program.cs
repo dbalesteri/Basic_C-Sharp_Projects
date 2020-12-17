@@ -60,7 +60,7 @@ namespace Method_Overload_Examples
                 try
                 {
                     string thirdNumber = Console.ReadLine();
-                    Console.WriteLine("The result is: " + additionSecond.Add(thirdNumber));
+                    Console.WriteLine("The result is: " + additionThird.Add(thirdNumber));
                     validAnswer = true;
                 }
                 catch (FormatException ex)

@@ -37,7 +37,7 @@ namespace Named_Parameter_Example
                         catch (OverflowException ex)
                         {
                             Console.WriteLine(ex.Message);
-                            Console.WriteLine("Enter a number 1073741824 or less:");
+                            Console.WriteLine("Enter a number between -2,147,483,648 and 2,147,483,647");
                         }
                     }
                     validAnswer = true;
@@ -49,7 +49,7 @@ namespace Named_Parameter_Example
                 catch (OverflowException ex)
                 {
                     Console.WriteLine(ex.Message);
-                    Console.WriteLine("Enter a number 1073741824 or less:");
+                    Console.WriteLine("Enter a number between -2,147,483,648 and 2,147,483,647.");
                 }
             }
             Console.WriteLine("That's it, press enter to exit!");

@@ -5,3 +5,10 @@ C:\Users\louis\ClassProjects\Basic_C#_Programs\Named Parameter Example\Named Par
 C:\Users\louis\ClassProjects\Basic_C#_Programs\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.csproj.CoreCompileInputs.cache
 C:\Users\louis\ClassProjects\Basic_C#_Programs\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.exe
 C:\Users\louis\ClassProjects\Basic_C#_Programs\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.pdb
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\bin\Debug\Named Parameter Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\bin\Debug\Named Parameter Example.exe
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\bin\Debug\Named Parameter Example.pdb
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.exe
+C:\Users\louis\ClassProjects\Basic_C-Sharp_Projects\Named Parameter Example\Named Parameter Example\obj\Debug\Named Parameter Example.pdb
