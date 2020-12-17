@@ -18,9 +18,9 @@ namespace Method_Overload_Examples
             return Convert.ToInt32(checked(input + 20m));
         }
 
-        public string Add(string input)
+        public int Add(string input)
         {
-            return Convert.ToString(checked(Convert.ToInt32(input) + 30));
+            return checked(Convert.ToInt32(input) + 30);
         }
 
     }
