@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\bin\Debug\Interface Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\bin\Debug\Interface Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\bin\Debug\Interface Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\obj\Debug\Interface Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\obj\Debug\Interface Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\obj\Debug\Interface Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Interface Example\Interface Example\obj\Debug\Interface Example.pdb
