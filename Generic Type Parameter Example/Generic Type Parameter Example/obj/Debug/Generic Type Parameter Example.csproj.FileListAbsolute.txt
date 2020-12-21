@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\bin\Debug\Generic Type Parameter Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\bin\Debug\Generic Type Parameter Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\bin\Debug\Generic Type Parameter Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\obj\Debug\Generic Type Parameter Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\obj\Debug\Generic Type Parameter Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\obj\Debug\Generic Type Parameter Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Generic Type Parameter Example\Generic Type Parameter Example\obj\Debug\Generic Type Parameter Example.pdb
