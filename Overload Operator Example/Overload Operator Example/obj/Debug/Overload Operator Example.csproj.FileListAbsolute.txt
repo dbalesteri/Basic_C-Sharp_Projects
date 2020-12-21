@@ -1,0 +1,7 @@
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\bin\Debug\Overload Operator Example.exe.config
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\bin\Debug\Overload Operator Example.exe
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\bin\Debug\Overload Operator Example.pdb
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\obj\Debug\Overload Operator Example.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\obj\Debug\Overload Operator Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\obj\Debug\Overload Operator Example.exe
+C:\Users\louis\source\repos\Overload Operator Example\Overload Operator Example\obj\Debug\Overload Operator Example.pdb
