@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\bin\Debug\Struct Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\bin\Debug\Struct Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\bin\Debug\Struct Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\obj\Debug\Struct Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\obj\Debug\Struct Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\obj\Debug\Struct Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Struct Example\Struct Example\obj\Debug\Struct Example.pdb
