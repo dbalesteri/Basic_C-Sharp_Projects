@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\bin\Debug\Lambda Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\bin\Debug\Lambda Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\bin\Debug\Lambda Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\obj\Debug\Lambda Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\obj\Debug\Lambda Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\obj\Debug\Lambda Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Lambda Example\Lambda Example\obj\Debug\Lambda Example.pdb
