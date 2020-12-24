@@ -1,0 +1,7 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\bin\Debug\File InputOuptut Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\bin\Debug\File InputOuptut Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\bin\Debug\File InputOuptut Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\obj\Debug\File InputOuptut Example.csprojAssemblyReference.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\obj\Debug\File InputOuptut Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\obj\Debug\File InputOuptut Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\File InputOuptut Example\File InputOuptut Example\obj\Debug\File InputOuptut Example.pdb
