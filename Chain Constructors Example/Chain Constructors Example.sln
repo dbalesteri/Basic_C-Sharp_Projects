@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain Constructors Example", "Chain Constructors Example\Chain Constructors Example.csproj", "{418B450C-85C9-4841-8502-E0612EB76569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418B450C-85C9-4841-8502-E0612EB76569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418B450C-85C9-4841-8502-E0612EB76569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418B450C-85C9-4841-8502-E0612EB76569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418B450C-85C9-4841-8502-E0612EB76569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219F1EF5-6E02-4C3C-A885-B7301F22B086}
+	EndGlobalSection
+EndGlobal
