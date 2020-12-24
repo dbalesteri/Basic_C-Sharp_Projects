@@ -1,0 +1,6 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\DateTime Example\DateTime Example\bin\Debug\DateTime Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\DateTime Example\DateTime Example\bin\Debug\DateTime Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\DateTime Example\DateTime Example\bin\Debug\DateTime Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\DateTime Example\DateTime Example\obj\Debug\DateTime Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\DateTime Example\DateTime Example\obj\Debug\DateTime Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\DateTime Example\DateTime Example\obj\Debug\DateTime Example.pdb
