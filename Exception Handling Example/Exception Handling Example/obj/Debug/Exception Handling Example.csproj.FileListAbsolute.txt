@@ -1,0 +1,6 @@
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Exception Handling Example\Exception Handling Example\bin\Debug\Exception Handling Example.exe.config
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Exception Handling Example\Exception Handling Example\bin\Debug\Exception Handling Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Exception Handling Example\Exception Handling Example\bin\Debug\Exception Handling Example.pdb
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Exception Handling Example\Exception Handling Example\obj\Debug\Exception Handling Example.csproj.CoreCompileInputs.cache
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Exception Handling Example\Exception Handling Example\obj\Debug\Exception Handling Example.exe
+C:\Users\louis\ClassProjects\Basic_C#_Programs\Exception Handling Example\Exception Handling Example\obj\Debug\Exception Handling Example.pdb
