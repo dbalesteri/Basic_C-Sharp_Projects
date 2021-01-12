@@ -1,0 +1,16 @@
+﻿@model CarInsurance.Models.Insuree
+@{
+    ViewBag.Title = "Confirmation";
+}
+
+
+<div class="container h-100 d-flex justify-content-center">
+    <div style="background:lightblue !important" class="jumbotron my-auto text-center">
+        <h1>Thank you, @Model.FirstName</h1>
+        <h4>Your monthly estimated monthly quote is:<br />$@Math.Round(Model.Quote, 2)</h4>
+        @Html.ActionLink("Get another quote?", "Create")
+    </div>
+</div>
+<div class="text-center">
+    @Html.ActionLink("Admin - Click Here", "Index", "Admin")
+</div>
