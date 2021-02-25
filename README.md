@@ -10,12 +10,12 @@ This repository contains two main projects demonstrating multiple core C# and OO
 ### Brief Project Description and link:
 
 * <a name="twenty-one"></a> Twenty One:
-  This project demonstrates
+  This project is a console application of the common casino card game Blackjack or 21. It was created as a program to step-by-step learn C# and OOP concepts, slowly adding more and more features to the base game. It has a feature to output the card log and user GUID to a txt file.
   
   [View Project Here!](https://github.com/dbalesteri/Basic_C-Sharp_Projects/tree/main/TwentyOne)
   
 * <a name="car-insurance"></a> Car Insurance:
-  This project demonstrates 
+  This project is an MVC application utilizing the Entity framework to show the business concept of a user interacting with forms, storing the information in a database, and CRUD (create, read, update, delete) functionality for an admin (admin link at bottom of index page).
   
   [View Project Here!](https://github.com/dbalesteri/Basic_C-Sharp_Projects/tree/main/CarInsurance)
   
